@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nigga_plz:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/nigga_plz_jar</output-path>
+    <root id="archive" name="nigga_plz.jar">
+      <element id="module-output" name="nigga_plz" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jar_files (1)/jnativehook-2.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
